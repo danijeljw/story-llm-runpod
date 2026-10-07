@@ -1,0 +1,3 @@
+# Raw LLM output is disposable until reviewed and promoted to drafts/.
+*
+!.gitignore
