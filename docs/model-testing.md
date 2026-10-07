@@ -3,6 +3,7 @@
 Do not select a fiction model from leaderboards alone.
 
 Create 3–5 stable benchmark scenes:
+
 1. dialogue-heavy scene;
 2. emotionally subtle scene;
 3. continuity-heavy scene;
@@ -12,6 +13,7 @@ Create 3–5 stable benchmark scenes:
 Run each prompt against every candidate model with the same sampler settings.
 
 Score:
+
 - prose quality;
 - character consistency;
 - instruction following;

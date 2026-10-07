@@ -1,6 +1,9 @@
+# Continuity check
+
 Review the supplied scene against the supplied story bible and prior continuity.
 
 Return:
+
 1. contradictions;
 2. possible continuity risks;
 3. repeated or implausible physical actions;

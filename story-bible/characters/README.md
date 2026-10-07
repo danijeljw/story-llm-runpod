@@ -5,6 +5,7 @@ Use **one Markdown file per significant character**.
 This directory is the canonical character bible.
 
 A character file should contain enough information that a different writer or LLM can write the character months later without:
+
 - changing their basic appearance;
 - flattening their personality;
 - inventing contradictory history;
@@ -15,6 +16,7 @@ A character file should contain enough information that a different writer or LL
 Do not over-document irrelevant trivia.
 
 Record details when they:
+
 - affect behaviour;
 - affect continuity;
 - distinguish the character;
@@ -228,7 +230,7 @@ Separate:
 Use relationship IDs or exact character filenames where possible.
 
 | Character | Relationship | Their view of this character | This character's view of them | Current state |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD | TBD |
 
 ## Social network
@@ -263,7 +265,7 @@ Update after every appearance.
 ## Story participation
 
 | Story | Role | Starting state | Key action | Ending state |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Story 1 | POV / support / etc. | TBD | TBD | TBD |
 
 ## Arc
@@ -304,7 +306,7 @@ Examples:
 
 ---
 
-# How much detail is enough?
+## How much detail is enough?
 
 The goal is behavioural consistency, not bureaucracy.
 
@@ -331,7 +333,7 @@ That is enough if nothing else matters.
 
 ---
 
-# Example only — fully developed character fragment
+## Example only — fully developed character fragment
 
 > **NON-CANONICAL EXAMPLE.**
 > This demonstrates useful depth. It should not be imported into the actual world unless explicitly adopted.
@@ -422,7 +424,7 @@ Efficient, mildly irritated, difficult to impress.
 
 ---
 
-# Character writing rules
+## Character writing rules
 
 When generating prose:
 

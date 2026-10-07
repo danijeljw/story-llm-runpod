@@ -1,6 +1,9 @@
+# Scene generation
+
 Write the requested scene as publication-oriented prose.
 
 Use the provided:
+
 - style guide;
 - character information;
 - continuity context;
@@ -10,6 +13,7 @@ Use the provided:
 Start where the supplied previous-scene context ends.
 
 Do not:
+
 - recap information the reader already knows;
 - repeat the scene objective verbatim;
 - add headings unless requested;

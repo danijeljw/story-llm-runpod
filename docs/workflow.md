@@ -17,6 +17,7 @@
 Do not send the whole novel on every request.
 
 Build a focused context package containing only:
+
 - system/style rules;
 - characters appearing in the scene;
 - relevant relationship state;

@@ -13,6 +13,7 @@
 The book takes place inside one canonical fantasy world.
 
 Different stories may:
+
 - focus on completely different protagonists;
 - occur in different regions, social classes, professions, cultures, or communities;
 - use different supporting casts;
@@ -33,6 +34,7 @@ Connections should usually feel **incidental, social, economic, geographical, po
 A connection does **not** require two characters to meet.
 
 Examples:
+
 - a healer treats Character A and later becomes Character D's neighbour;
 - Character B works for a merchant whose missing shipment caused the shortage affecting Character F;
 - Character C hears a distorted tavern story about an event the reader witnessed accurately in Story 1;
@@ -49,6 +51,7 @@ The reader should experience three levels of story simultaneously.
 ### 1. Immediate story
 
 Each individual story has:
+
 - a protagonist or small focal cast;
 - a concrete desire, problem, threat, mystery, relationship, obligation, or opportunity;
 - meaningful escalation;
@@ -60,6 +63,7 @@ A reader should not need to remember twenty names from previous stories simply t
 ### 2. Human network
 
 Across stories, the reader begins recognising:
+
 - names;
 - families;
 - workplaces;
@@ -79,6 +83,7 @@ These recognitions provide reward without turning the book into a continuity exa
 The world should subtly change over the course of the book.
 
 This may include:
+
 - a political transition;
 - social unrest;
 - a magical phenomenon;
@@ -111,6 +116,7 @@ A useful target for the first book is:
 These are planning ranges, not rigid limits.
 
 Every story should be long enough to establish:
+
 - a specific slice of life;
 - the protagonist's normal state;
 - a disturbance;
@@ -132,6 +138,7 @@ Characters should be classified by **narrative function**, not by importance as 
 Characters whose lives span much of the book.
 
 They may:
+
 - lead multiple stories;
 - appear prominently in other characters' stories;
 - undergo a long-running personal arc;
@@ -146,6 +153,7 @@ Recommended first-book count: 2-4.
 Characters who appear meaningfully in several stories but do not dominate the book.
 
 They may:
+
 - be a friend, relative, rival, colleague, client, neighbour, official, healer, innkeeper, priest, criminal, scholar, or employer;
 - have their own life that continues off-page;
 - become a future protagonist.
@@ -159,6 +167,7 @@ Characters whose main structural function is to connect otherwise separate socia
 A bridge character can be minor in page count but important to the network.
 
 Examples:
+
 - a courier;
 - magistrate;
 - physician;
@@ -179,6 +188,7 @@ Use sparingly. A bridge character should still feel like a person, not a plot ca
 Characters created for one particular story.
 
 They can be:
+
 - lovers;
 - antagonists;
 - customers;
@@ -201,6 +211,7 @@ However, consequences involving them may persist.
 Small recurring figures who make the world feel inhabited.
 
 Examples:
+
 - the same exhausted customs officer;
 - a baker whose shop appears in multiple neighbourhood stories;
 - a guard captain mentioned more often than seen;
@@ -248,6 +259,7 @@ Rumour, prejudice, memory, propaganda, and incomplete information may distort ho
 If every stranger turns out to be someone's sibling, former lover, or secret heir, the world becomes small.
 
 Prefer ordinary connective tissue:
+
 - work;
 - neighbourhoods;
 - commerce;
@@ -275,6 +287,7 @@ The book should contain two kinds of arc.
 Several long-running characters develop across multiple stories.
 
 Possible arc shapes:
+
 - ambition -> success -> cost -> reassessment;
 - isolation -> reluctant connection -> trust -> betrayal or belonging;
 - certainty -> contradiction -> doubt -> new worldview;
@@ -289,6 +302,7 @@ A larger change moves through the background of the book.
 It should appear differently depending on who is affected.
 
 For example, the same decree might be:
+
 - a bureaucratic nuisance to a merchant;
 - life-saving protection to a minority group;
 - lost income to a guard;
@@ -335,6 +349,7 @@ Track continuity at several levels.
 ### Hard continuity
 
 Facts that must never drift:
+
 - names;
 - ages;
 - family relationships;
@@ -350,6 +365,7 @@ Facts that must never drift:
 ### Soft continuity
 
 Facts that may legitimately change:
+
 - opinions;
 - friendships;
 - fashion;
@@ -371,6 +387,7 @@ Example:
 **Canonical fact:** a warehouse burned.
 
 Possible perspectives:
+
 - "rebels burned it";
 - "the city guard burned it";
 - "it was an accident";
@@ -384,6 +401,7 @@ These statements can coexist as character beliefs until canon establishes the tr
 ## Repetition policy
 
 When a previous event matters in a later story:
+
 - give only the amount of context the current POV would naturally know;
 - do not re-summarise the previous story;
 - allow incorrect or incomplete recollection;
@@ -422,6 +440,7 @@ Its own protagonist's immediate story must resolve.
 The reader should be able to look backward and understand that the book captured one meaningful period in the world's life.
 
 Useful final effects:
+
 - an earlier minor action is revealed to have mattered;
 - a recurring institution changes;
 - a rumour becomes history;
@@ -441,7 +460,7 @@ The world should feel larger than the book.
 Use this table while planning.
 
 | Story | Working title | POV | Local story | Returning characters | New characters | Connection carried forward | World-arc movement |
-|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | TBD | TBD | Establish first self-contained conflict | — | TBD | Introduce 2-3 reusable threads | Establish baseline |
 | 2 | TBD | TBD | New social circle and problem | 0-2 | TBD | Reveal indirect link to Story 1 | First visible consequence |
 | 3 | TBD | TBD | Expand geography/class/culture | 1-2 | TBD | Cross one existing thread | Escalate |
@@ -460,7 +479,7 @@ Add or remove stories as the book requires.
 Use this section to prevent convenient coincidences.
 
 | Element | First appears | Later appearance | Nature of connection | Does POV understand connection? |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | TBD | Story 1 | Story 3 | person / object / rumour / institution / event | yes / partial / no |
 | TBD | Story 2 | Story 5 | indirect acquaintance | yes / partial / no |
 
@@ -473,7 +492,7 @@ Not every seed requires a dramatic payoff.
 Some exist only to create continuity.
 
 | Seed | Introduced | Expected payoff | Payoff type | Status |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | TBD | Story 1 | Story 4 | recognition / consequence / reveal / thematic echo | open |
 | TBD | Story 2 | Story 7 | relationship / political / magical / economic | open |
 
@@ -530,6 +549,7 @@ What looked like a successful escape in Story 1 is now revealed to have created 
 ### Why this works
 
 The stories overlap without requiring:
+
 - a team;
 - a chosen-one plot;
 - constant cameos;
@@ -545,6 +565,7 @@ The network emerges through ordinary life.
 These should become explicit canon before prose generation begins.
 
 ### World
+
 - What is the world called?
 - What geographic area does Book 1 cover?
 - What fantasy elements are normal parts of everyday life?
@@ -556,6 +577,7 @@ These should become explicit canon before prose generation begins.
 - What does ordinary work look like?
 
 ### Book-scale event
+
 - What is changing during this book?
 - Who notices first?
 - Who benefits?
@@ -565,6 +587,7 @@ These should become explicit canon before prose generation begins.
 - What facts are hidden from most characters?
 
 ### Character network
+
 - Who are the 2-4 likely anchor characters?
 - Which social circles do they inhabit?
 - Where are the bridges between those circles?
@@ -572,6 +595,7 @@ These should become explicit canon before prose generation begins.
 - Which connections should be known only to the reader?
 
 ### Ending
+
 - What has definitely changed by the final story?
 - Which personal arcs must close?
 - Which threads deliberately remain open for later books?

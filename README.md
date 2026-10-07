@@ -29,6 +29,7 @@ Local-first long-form fiction workspace using disposable RunPod GPU Pods for GGU
 This repository is built around **GGUF inference with llama.cpp**, not PyTorch.
 
 Use PyTorch/Transformers/vLLM later if you decide to:
+
 - fine-tune/train models;
 - use a model not well-supported by llama.cpp/GGUF;
 - serve high-throughput concurrent workloads;
@@ -39,12 +40,14 @@ For a single writer spinning up a GPU only when required, GGUF + llama.cpp is si
 ## Suggested initial GPU
 
 Start with one 48 GB GPU:
+
 - RTX A6000
 - A40
 - RTX 6000 Ada
 - L40 / L40S
 
 Suggested initial model class:
+
 - 20B–30B fiction-tuned GGUF
 - Q6_K or Q8_0 where practical
 
@@ -99,6 +102,7 @@ Do **not** use the network volume as the canonical store for manuscript files.
 ```
 
 The script:
+
 - uses the configured GPU;
 - attaches the configured RunPod network volume;
 - exposes SSH;

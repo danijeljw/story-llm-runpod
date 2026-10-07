@@ -36,7 +36,7 @@ Consistency matters more than what system is chosen.
 ## Master timeline
 
 | Date | Event | Location | Characters directly present | Characters affected indirectly | Story | Canon status |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD | TBD | Story 1 | planned / written / locked |
 
 ---
@@ -44,7 +44,7 @@ Consistency matters more than what system is chosen.
 ## Story spans
 
 | Story | Start | End | Duration | Overlaps |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Story 1 | TBD | TBD | TBD | TBD |
 | Story 2 | TBD | TBD | TBD | TBD |
 
@@ -55,7 +55,7 @@ Consistency matters more than what system is chosen.
 Track movements where continuity or travel time matters.
 
 | Character | Date | Location | Event / state |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD |
 
 This prevents a character from appearing in distant locations too quickly.
@@ -65,7 +65,7 @@ This prevents a character from appearing in distant locations too quickly.
 ## Relationship milestones
 
 | Date | Characters | Change |
-|---|---|---|
+| --- | --- | --- |
 | TBD | TBD | meet / separate / reconcile / argument / betrayal / marriage / etc. |
 
 ---
@@ -75,7 +75,7 @@ This prevents a character from appearing in distant locations too quickly.
 These are events multiple stories may reference.
 
 | Date | Public event | Who knows immediately? | How information spreads | Common misinformation |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | TBD | TBD | TBD | messenger / broadsheet / magic / travellers | TBD |
 
 ---
@@ -85,7 +85,7 @@ These are events multiple stories may reference.
 An event occurring does **not** mean every character instantly knows it.
 
 | Fact / event | Occurs | First public knowledge | Character learns | Source | Accuracy |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD | witness / rumour / official notice | true / partial / false |
 
 This is particularly important when stories overlap.
@@ -97,10 +97,11 @@ This is particularly important when stories overlap.
 Track objects that move between stories.
 
 | Object | Date | Owner / holder | How acquired | Next known state |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD | TBD |
 
 Useful for:
+
 - letters;
 - weapons;
 - books;
@@ -117,7 +118,7 @@ Useful for:
 ## Location-state timeline
 
 | Date | Location | Change |
-|---|---|---|
+| --- | --- | --- |
 | TBD | TBD | fire / construction / ownership / closure / political control / etc. |
 
 ---
@@ -127,7 +128,7 @@ Useful for:
 > **NON-CANONICAL EXAMPLE.**
 
 | Date | Event | Story relevance |
-|---|---|---|
+| --- | --- | --- |
 | Autumn 03 | Mara falsifies an inspection entry | Seen directly in Story 1 |
 | Autumn 05 | Registry begins unrelated permit audit | Mentioned as background in Story 1 |
 | Autumn 08 | Tomas delivers audit notices | Opening event of Story 2 |
@@ -153,6 +154,7 @@ Use status markers:
 - `LOCKED` — published or explicitly declared canonical.
 
 When changing a `LOCKED` event:
+
 1. identify every dependent character, relationship, and story;
 2. update them deliberately;
 3. never silently retcon the timeline.

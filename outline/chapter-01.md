@@ -32,6 +32,7 @@ Chapter 1 should:
 7. end with a meaningful change, not a teaser pretending to be an ending.
 
 The chapter should **not**:
+
 - explain the full magic system;
 - introduce the entire recurring cast;
 - list world history;
@@ -58,7 +59,7 @@ Define the protagonist's life immediately before the story disturbs it.
 For every important relationship present at the beginning:
 
 | Character | Relationship | Current emotional state | What is unspoken? | What does each person want? |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | TBD | friend / sibling / lover / colleague / etc. | TBD | TBD | TBD |
 
 ### Internal state
@@ -66,6 +67,7 @@ For every important relationship present at the beginning:
 Avoid reducing the protagonist to one adjective.
 
 Record:
+
 - what they believe about themselves;
 - what they believe about the world;
 - what they refuse to admit;
@@ -92,6 +94,7 @@ The disturbance should interrupt normal life in a way that specifically matters 
 Good disturbances create pressure between competing priorities.
 
 Example structures:
+
 - protect someone vs obey the law;
 - keep a job vs expose wrongdoing;
 - pursue desire vs preserve an existing relationship;
@@ -129,6 +132,7 @@ What might the protagonist need to understand, accept, reject, or change?
 Do not force a therapeutic epiphany into every story.
 
 Some endings may involve:
+
 - compromise;
 - failure;
 - moral ambiguity;
@@ -143,6 +147,7 @@ Some endings may involve:
 Opposition does not always mean a villain.
 
 Potential sources:
+
 - another character with legitimate competing interests;
 - law;
 - class;
@@ -193,18 +198,23 @@ A useful escalation chain:
 By the end of Story 1, record exactly what has changed.
 
 ### External changes
+
 - TBD
 
 ### Relationship changes
+
 - TBD
 
 ### Internal changes
+
 - TBD
 
 ### World-state changes
+
 - TBD
 
 ### Unresolved consequences
+
 - TBD
 
 The local plot should feel resolved even if consequences continue.
@@ -218,25 +228,25 @@ Story 1 should plant only a manageable number of reusable elements.
 ### Characters available for later stories
 
 | Character | Story-1 role | Possible future use | Must they return? |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | TBD | TBD | POV / support / bridge / mention | no unless planned |
 
 ### Places available for later stories
 
 | Place | Role here | Future value |
-|---|---|---|
+| --- | --- | --- |
 | TBD | home / workplace / public space / route | recurring location / referenced location / changed location |
 
 ### Institutions / groups
 
 | Institution | What reader learns | What remains unknown |
-|---|---|---|
+| --- | --- | --- |
 | TBD | TBD | TBD |
 
 ### Objects / rumours / events
 
 | Element | Meaning in Story 1 | Potential later meaning |
-|---|---|---|
+| --- | --- | --- |
 | TBD | TBD | TBD |
 
 ---
@@ -247,13 +257,14 @@ The chapter should probably contain 7-12 substantial scenes rather than dozens o
 
 ### Scene 1 — Ordinary life under pressure
 
-**Purpose**
+**Purpose:**
+
 - Introduce the POV character in motion.
 - Establish one relationship or responsibility.
 - Show fantasy-world normality through practical details.
 - Reveal an existing small pressure before the main disturbance.
 
-**Scene question**
+**Scene question:**
 > Can the protagonist get through this ordinary problem without making their life worse?
 
 **Exit condition**
@@ -263,7 +274,8 @@ Something changes or arrives that makes the larger story unavoidable.
 
 ### Scene 2 — The disturbance
 
-**Purpose**
+**Purpose:**
+
 - Deliver the inciting event.
 - Make its stakes personal.
 - Let the protagonist form an initial plan.
@@ -274,7 +286,8 @@ Avoid stopping for a worldbuilding lecture.
 
 ### Scene 3 — First attempt
 
-**Purpose**
+**Purpose:**
+
 - The protagonist acts.
 - The reader sees competence and limitation.
 - At least one secondary character has their own agenda.
@@ -290,6 +303,7 @@ Partial success, failure, or success with an unexpected cost.
 Show that the problem exists inside a human network.
 
 This is a good place for:
+
 - family disagreement;
 - workplace pressure;
 - romantic friction;
@@ -309,6 +323,7 @@ The protagonist learns something that changes what the story means.
 It should not merely increase danger.
 
 Examples:
+
 - the supposed victim made a choice;
 - the law is being enforced for a reason the protagonist did not know;
 - an ally has conflicting obligations;
@@ -345,6 +360,7 @@ Over:
 The consequences of the choice arrive.
 
 The climax can be:
+
 - confrontation;
 - escape;
 - negotiation;
@@ -367,6 +383,7 @@ Show the new reality.
 Include enough ordinary detail to make the consequence tangible.
 
 Questions:
+
 - What has been gained?
 - What has been lost?
 - Who now sees the protagonist differently?
@@ -379,6 +396,7 @@ Questions:
 End the local story.
 
 Optionally include a small element that later stories can pick up:
+
 - a letter sent;
 - a name entered into a ledger;
 - an object changing hands;
@@ -397,18 +415,23 @@ This should feel like part of the protagonist's ending, not an advertisement for
 After drafting, add every durable fact to the appropriate story-bible file.
 
 ### Character canon
+
 - TBD
 
 ### Location canon
+
 - TBD
 
 ### Relationship canon
+
 - TBD
 
 ### Timeline canon
+
 - TBD
 
 ### World / institutional canon
+
 - TBD
 
 ---
@@ -426,9 +449,10 @@ Reporting it will make the building unsafe until the occupants can pay for sanct
 
 Ignoring it risks his licence and could make him personally liable if the charm fails.
 
-### Starting state
+### Example starting state
 
 The apprentice:
+
 - is technically competent;
 - desperately needs his licence renewed;
 - financially supports a younger sibling;

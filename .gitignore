@@ -4,6 +4,7 @@ bin/
 obj/
 *.user
 *.suo
+node_modules/
 
 # Generated output is local and intentionally ignored by default.
 # Remove these lines if you want generated drafts committed.

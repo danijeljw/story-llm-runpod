@@ -1,4 +1,7 @@
+# Rewrite
+
 Rewrite the supplied passage while preserving:
+
 - factual continuity;
 - character voice;
 - point of view;
@@ -7,6 +10,7 @@ Rewrite the supplied passage while preserving:
 - emotional meaning.
 
 Improve:
+
 - prose economy;
 - rhythm;
 - specificity;
@@ -14,6 +18,7 @@ Improve:
 - pacing.
 
 Remove:
+
 - repetition;
 - generic AI-style phrasing;
 - melodrama not supported by the scene;
