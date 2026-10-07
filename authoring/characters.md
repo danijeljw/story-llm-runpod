@@ -2,7 +2,7 @@
 
 Use **one Markdown file per significant character**.
 
-This directory is the canonical character bible.
+This is reusable character development guidance. Canonical profiles belong in the owning series bible, or in a story for temporary characters.
 
 A character file should contain enough information that a different writer or LLM can write the character months later without:
 
@@ -62,23 +62,23 @@ A Story-local character may unexpectedly become useful enough to promote to Recu
 Recommended:
 
 ```text
-first-last.md
+first-last/profile.md
 ```
 
 Examples:
 
 ```text
-mara-vale.md
-tomas-enn.md
-sister-avel.md
+mara-vale/profile.md
+tomas-enn/profile.md
+sister-avel/profile.md
 ```
 
 For people without conventional names:
 
 ```text
-the-ash-prince.md
-old-nara.md
-captain-ivo.md
+the-ash-prince/profile.md
+old-nara/profile.md
+captain-ivo/profile.md
 ```
 
 ---

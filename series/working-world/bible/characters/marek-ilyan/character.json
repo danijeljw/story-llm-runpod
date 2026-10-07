@@ -1,0 +1,67 @@
+{
+  "id": "CH-MAREK-001",
+  "profile": "profile.md",
+  "canonStatus": "proposed",
+  "references": [
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_51 PM-1.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_52 PM-2.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_53 PM-3.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_53 PM-4.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_21 PM-1.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_22 PM-2.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_22 PM-3.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_23 PM-4.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_24 PM-5.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/Golden Hour Poolside Retreat.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/Marek Ilyan at the Midnight Bar.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    },
+    {
+      "path": "references/Whiskey at the Midnight Lounge.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    }
+  ]
+}

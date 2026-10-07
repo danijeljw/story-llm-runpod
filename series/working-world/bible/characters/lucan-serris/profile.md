@@ -1030,7 +1030,7 @@ The exact rules should be defined in Marek's file and the central relationship b
 
 | Character | Relationship | Their view of Luca | Luca's view of them | Current state |
 | --- | --- | --- | --- | --- |
-| `marek-ilyan.md` | long-term boyfriend | loves him; sees through his public ease; occasionally frustrated by his disappearing act under stress | deeply loves and desires Marek; trusts him; fears losing emotional closeness more than sexual exclusivity | stable, affectionate, open |
+| [marek-ilyan](../marek-ilyan/profile.md) | long-term boyfriend | loves him; sees through his public ease; occasionally frustrated by his disappearing act under stress | deeply loves and desires Marek; trusts him; fears losing emotional closeness more than sexual exclusivity | stable, affectionate, open |
 | `aster-house-cofounder.md` | business partner / close friend | brilliant with people; occasionally impossible; essential to the company | trusted equal; relies on them more than he admits | strong |
 | `serris-sister.md` | younger sister | loving; amused by his reputation; protective of his private self | fiercely protective; emotionally safe with her | close |
 | TBD | occasional lover / friend | TBD | TBD | optional |
@@ -1488,3 +1488,7 @@ Before locking Luca fully into canon, decide:
 - Which existing character knows Luca directly?
 - Which existing character knows him only by reputation?
 - What event first forces Luca to choose private loyalty over public visibility?
+
+## Reference assets
+
+See [visual references](references.md) and [machine-readable reference metadata](character.json).

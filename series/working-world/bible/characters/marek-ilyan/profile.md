@@ -1372,7 +1372,7 @@ The relationship remains balanced because both understand the difference.
 
 | Character | Relationship | Their view of Marek | Marek's view of them | Current state |
 | --- | --- | --- | --- | --- |
-| `lucan-serris.md` | long-term boyfriend | loves him; trusts him; occasionally worries about how far Marek pushes himself | loves Luca; values his equal footing; protective without wanting to control him | stable, affectionate, open |
+| [lucan-serris](../lucan-serris/profile.md) | long-term boyfriend | loves him; trusts him; occasionally worries about how far Marek pushes himself | loves Luca; values his equal footing; protective without wanting to control him | stable, affectionate, open |
 | `professional-mentor.md` | mentor / colleague | brilliant, controlled, occasionally too confident | respects them; dislikes being managed | strong but formal |
 | `kink-confidant.md` | close subculture friend | sees through his control; respects his boundaries | trusts them with private sexual context | strong |
 | `nightlife-friend.md` | party friend | views Marek as the sensible one | likes them; knows they increase risk | active |
@@ -1889,3 +1889,7 @@ Before locking Marek fully into canon, decide:
 - Which character first recognises Marek from a private environment while knowing him professionally?
 - What is the strongest line Marek will not cross sexually?
 - What private behaviour would genuinely threaten his career if exposed?
+
+## Reference assets
+
+See [visual references](references.md) and [machine-readable reference metadata](character.json).

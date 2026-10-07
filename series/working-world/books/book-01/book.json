@@ -1,0 +1,11 @@
+{
+  "id": "book-01",
+  "title": null,
+  "subtitle": null,
+  "status": "concept",
+  "form": "linked-story collection",
+  "stories": [
+    "story-01"
+  ],
+  "contributors": []
+}

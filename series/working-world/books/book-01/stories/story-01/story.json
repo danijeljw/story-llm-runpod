@@ -1,0 +1,12 @@
+{
+  "id": "story-01",
+  "title": null,
+  "status": "outline",
+  "contextFiles": [
+    "bible/style-guide.md",
+    "bible/timeline.md",
+    "bible/relationships.md",
+    "books/book-01/concept.md",
+    "books/book-01/stories/story-01/outline.md"
+  ]
+}

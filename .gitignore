@@ -1,16 +1,25 @@
 .env
+.env.*
+!.env.example
 .DS_Store
 bin/
 obj/
 *.user
 *.suo
 node_modules/
+__pycache__/
+*.pyc
 
-# Generated output is local and intentionally ignored by default.
-# Remove these lines if you want generated drafts committed.
-drafts/*.md
-drafts/**/*.md
+# Disposable LLM output and intermediate publication builds only.
+/series/**/generated/**
+!/series/**/generated/.gitkeep
+/build/
+/cache/
+/tmp/
 
-# Model files must never enter Git.
+# Local release staging. Durable approved releases belong in book releases/.
+/dist/
+
+# Model files and operational storage must never enter Git.
 *.gguf
-models/
+/models/

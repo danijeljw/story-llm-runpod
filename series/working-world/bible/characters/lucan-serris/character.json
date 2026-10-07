@@ -1,0 +1,12 @@
+{
+  "id": "CH-LUCA-001",
+  "profile": "profile.md",
+  "canonStatus": "proposed",
+  "references": [
+    {
+      "path": "references/Golden-Hour Harbour Lounge Portrait.png",
+      "role": "unclassified",
+      "canonStatus": "reference-candidate"
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
-  "config": {
-    "MD013": false
-  },
-  "ignores": ["node_modules/**"]
+  "config": { "MD013": false },
+  "ignores": ["node_modules/**", "**/generated/**", "build/**", "dist/**"],
+  "overrides": [
+    {
+      "filter": ["series/working-world/books/book-01/drafts/unassigned/draft-01.md"],
+      "config": { "MD041": false, "MD012": false, "MD047": false },
+      "combine": "merge"
+    },
+    {
+      "filter": ["series/working-world/bible/characters/marek-ilyan/profile.md"],
+      "config": { "MD024": { "siblings_only": true } },
+      "combine": "merge"
+    }
+  ]
 }

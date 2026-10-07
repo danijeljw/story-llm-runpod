@@ -1,29 +1,16 @@
 # Writing workflow
 
-1. Write/update the story bible locally.
-2. Write the chapter and scene objective locally.
-3. Create a disposable RunPod Pod.
-4. Attach persistent model storage.
-5. Start `llama-server`.
-6. Establish an SSH tunnel.
-7. Generate one scene or revision at a time.
-8. Save generated output locally.
-9. Review and edit locally.
-10. Commit deliberate changes to Git.
-11. Terminate the Pod.
+1. Choose or create the owning series, book and story using [the templates](../authoring/templates/README.md).
+2. Develop the book theme/concept and story outline locally. Set book story order independently of in-world chronology.
+3. Update series bible facts and relevant character states. Keep planned ideas distinct from approved canon.
+4. Prepare a scene brief and select relevant `contextFiles` in that story's JSON. Include profiles, reference descriptions, location facts, book context and outline only as needed.
+5. Start disposable remote compute, load a GGUF with llama.cpp and tunnel its API locally, using the [root instructions](../README.md).
+6. Run StoryRunner locally with the full selected scene path. Raw output is saved under that story's ignored `generated/` directory.
+7. Review, revise and promote useful text to tracked `drafts/` or `manuscript/`. Put critique/continuity decisions in story `reviews/` when useful.
+8. Reconcile approved new facts with the owning series bible. Preserve consequences between stories; do not confuse character belief with objective canon.
+9. Validate links/metadata, lint Markdown and commit deliberate sources. Retain important ignored output before cleaning a worktree.
+10. Terminate the Pod; persistent remote storage contains operational assets only.
 
-## Context strategy
+## Publication preparation
 
-Do not send the whole novel on every request.
-
-Build a focused context package containing only:
-
-- system/style rules;
-- characters appearing in the scene;
-- relevant relationship state;
-- relevant timeline facts;
-- chapter objective;
-- scene objective;
-- necessary previous-scene tail.
-
-This reduces drift and wasted context.
+When ready, fill book `publication.json` with actual edition/format configuration and confirm story order in `book.json`. Keep cover sources and store descriptions with the book. Build scripts should later assemble accepted manuscripts into `build/<series>/<book>/<edition>/`, stage deliverables in `dist/`, and retain approved release assets in the book's `releases/<edition-id>/`. No publish command exists until a real publisher is implemented.
