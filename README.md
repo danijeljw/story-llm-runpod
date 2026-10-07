@@ -22,7 +22,7 @@ series/
           profile.md
           character.json      existing character ID and reference manifest
           references.md       clickable image index
-          references/         original PNG filenames
+          references/         descriptive PNG filenames
         lucan-serris/         same profile/manifest/reference pattern
     books/
       book-01/
@@ -55,7 +55,7 @@ Create a new series in `series/<slug>/`, a book in its `books/book-NN/`, and a s
 
 Universal conventions and templates live in `authoring/`. Actual people, places, organisations, world rules and chronology belong to that series' `bible/`. No series automatically inherits another's fictional facts or fantasy style. Keep one canonical profile per recurring character. Temporary characters may live in a story's `characters/<slug>/`; promote them when they recur and update references rather than duplicate canon.
 
-Character images are durable sources next to their profile, partitioned by character. `character.json` records the profile path, canon status and image paths/roles relative to the character directory. `references.md` is the browsable index. Existing images are retained without renaming; their precise role and canonical priority are unclassified until reviewed. A text-only LLM receives selected profiles and JSON reference descriptions, not PNG bytes. Future vision tools can use those same manifests.
+Character images are durable sources next to their profile, partitioned by character. `character.json` records the profile path, canon status and image paths/roles relative to the character directory. `references.md` is the browsable index. Images have descriptive filenames, visually inspected roles and descriptions. Original filenames remain in the manifests for provenance; canonical priority remains unassigned. A text-only LLM receives selected profiles and JSON reference descriptions, not PNG bytes. Future vision tools can use those same manifests.
 
 ## Sources, generation and publication
 

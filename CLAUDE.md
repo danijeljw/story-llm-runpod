@@ -4,7 +4,7 @@ This is a multi-series, multi-book, multi-story fiction source repository. Read 
 
 - Local sources and curated references are canonical. RunPod is disposable GGUF/llama.cpp compute. Do not add PyTorch, Transformers or vLLM without a request.
 - Universal guidance/templates belong in `authoring/`; fictional canon and series style belong in `series/<slug>/bible/`. Never blend unrelated continuities.
-- Recurring profiles live in `bible/characters/<slug>/profile.md`, with `character.json` and `references/`. Preserve filenames, image bytes, existing IDs and profile status. Update every dependency when moving assets.
+- Recurring profiles live in `bible/characters/<slug>/profile.md`, with `character.json` and `references/`. Preserve image bytes, existing IDs and profile status. Use descriptive filenames based on visible content; retain original filenames in manifest provenance when renaming. Update every dependency when moving assets.
 - Books contain `book.json`, `concept.md`, `publication.json` and `stories/`. Each story owns its `story.json`, outline, scenes and tracked drafts. Only raw `generated/` output is ignored.
 - `working-world` is an organisational label. Titles are unset. Do not invent canon, titles, ISBNs or publication claims. Preserve existing non-canonical examples and proposed character status.
 - Existing unassigned authored prose is in Book 1's `drafts/unassigned/`; it is not an approved manuscript.
