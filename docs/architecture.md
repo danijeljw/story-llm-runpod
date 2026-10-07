@@ -43,14 +43,14 @@ The reference project `how-to-use-ai.com` was inspected for metadata and publish
 | `story-bible/{timeline,relationships,locations,style-guide}.md` | `series/working-world/bible/` | Existing content preserved; style remains series-scoped |
 | `story-bible/characters/README.md` | `authoring/characters.md` | Reusable guidance retained; ownership/naming introduction updated |
 | `story-bible/characters/<name>.md` | Series `bible/characters/<name>/profile.md` | Existing prose/IDs/status retained; counterpart links and asset index added |
-| Character image directories | Character `references/` directories | All 13 PNGs preserved byte-for-byte and filenames unchanged |
+| Character image directories | Character `references/` directories | All 13 PNGs preserved byte-for-byte; subsequently named by character, setting and pose, with original filenames recorded in manifests |
 | `outline/novel.md` | Book 1 `concept.md` | Existing mosaic concept preserved |
 | `outline/chapter-01.md` | Story 1 `outline.md` | Existing substantial-story outline preserved |
 | `scenes/chapter-01/scene-01.md` | Story 1 `scenes/scene-01.md` | Existing scene brief preserved |
 | `chapters/draft-01.md` | Book 1 `drafts/unassigned/draft-01.md` | Authored variants preserved, not claimed as approved or assigned to Story 1 |
 | `prompts/`, `config/` | `llm/prompts/`, `llm/config/` | Content preserved; client paths updated |
 
-`working-world`, `book-01` and `story-01` are organisational IDs. Real titles remain unset. Character reference roles and canonical priority remain unclassified; the manifests make that uncertainty visible rather than guessing from filenames. The unassigned draft and existing planning placeholders remain editorial decisions, not migration failures.
+`working-world`, `book-01` and `story-01` are organisational IDs. Real titles remain unset. Character reference roles and descriptions now reflect visual inspection; canonical priority remains unassigned. The unassigned draft and existing planning placeholders remain editorial decisions, not migration failures.
 
 ## Validation notes
 

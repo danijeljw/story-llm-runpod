@@ -4,64 +4,88 @@
   "canonStatus": "proposed",
   "references": [
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_51 PM-1.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-shirt-full-body-glass-at-side.png",
+      "role": "outfit-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Standing beside a marble bar in a black shirt and trousers, holding a glass at his side.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_23_51 PM-1.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_52 PM-2.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-shirt-face-close-up-01.png",
+      "role": "face-portrait",
+      "canonStatus": "reference-candidate",
+      "description": "Close-up of face and open black shirt against a softly lit lounge background; tighter face framing.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_23_52 PM-2.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_53 PM-3.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-suit-full-body-bar-lean-01.png",
+      "role": "outfit-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Full-body black suit and open black shirt, leaning on a marble bar with ankles crossed; closer framing.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_23_53 PM-3.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_23_53 PM-4.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-shirt-sofa-reclining.png",
+      "role": "off-duty-seated",
+      "canonStatus": "reference-candidate",
+      "description": "Reclining on a sofa in a black shirt and trousers, one arm along the backrest and a drink held low.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_23_53 PM-4.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_21 PM-1.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-shirt-face-close-up-02.png",
+      "role": "face-portrait",
+      "canonStatus": "reference-candidate",
+      "description": "Close-up of face and open black shirt against warm lounge lights; wider shoulder framing.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_32_21 PM-1.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_22 PM-2.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-shirt-full-body-glass-at-chest.png",
+      "role": "outfit-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Standing in a black shirt and trousers beside a marble bar, holding a glass near chest height.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_32_22 PM-2.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_22 PM-3.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-suit-full-body-bar-lean-02.png",
+      "role": "outfit-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Full-body black suit and open black shirt, leaning on a marble bar with ankles crossed; wider lounge framing.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_32_22 PM-3.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_23 PM-4.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-sunset-poolside-black-swim-shorts-full-body-hand-in-pocket.png",
+      "role": "physique-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Shirtless and barefoot beside a pool at sunset, in black swim shorts, with one hand in a pocket and the other on a towel-covered lounger.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_32_23 PM-4.png"
     },
     {
-      "path": "references/ChatGPT Image Oct 7, 2026, 04_32_24 PM-5.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-lounge-black-shirt-sofa-head-on-hand.png",
+      "role": "off-duty-seated",
+      "canonStatus": "reference-candidate",
+      "description": "Seated on a sofa in a black shirt and trousers, head resting on one hand, holding a drink with the other.",
+      "originalFilename": "ChatGPT Image Oct 7, 2026, 04_32_24 PM-5.png"
     },
     {
-      "path": "references/Golden Hour Poolside Retreat.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-sunset-poolside-black-swim-shorts-full-body-arm-at-side.png",
+      "role": "physique-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Shirtless and barefoot beside a pool at sunset, in black swim shorts, with one arm at his side and the other on a towel-covered lounger.",
+      "originalFilename": "Golden Hour Poolside Retreat.png"
     },
     {
-      "path": "references/Marek Ilyan at the Midnight Bar.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-bar-black-shirt-seated-glass-on-counter.png",
+      "role": "off-duty-seated",
+      "canonStatus": "reference-candidate",
+      "description": "Seated at a marble bar in a black shirt and trousers, hand around a glass resting on the counter.",
+      "originalFilename": "Marek Ilyan at the Midnight Bar.png"
     },
     {
-      "path": "references/Whiskey at the Midnight Lounge.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/marek-ilyan-night-bar-black-shirt-seated-raised-glass.png",
+      "role": "off-duty-seated",
+      "canonStatus": "reference-candidate",
+      "description": "Seated in a leather chair by the bar, wearing a black shirt and trousers and raising a glass near his face.",
+      "originalFilename": "Whiskey at the Midnight Lounge.png"
     }
   ]
 }

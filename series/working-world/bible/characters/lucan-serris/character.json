@@ -4,9 +4,11 @@
   "canonStatus": "proposed",
   "references": [
     {
-      "path": "references/Golden-Hour Harbour Lounge Portrait.png",
-      "role": "unclassified",
-      "canonStatus": "reference-candidate"
+      "path": "references/lucan-serris-harbour-terrace-white-linen-seated-portrait.png",
+      "role": "casual-portrait",
+      "canonStatus": "reference-candidate",
+      "description": "Seated on a harbour terrace at sunset, wearing an open white linen shirt and trousers, holding a drink.",
+      "originalFilename": "Golden-Hour Harbour Lounge Portrait.png"
     }
   ]
 }
