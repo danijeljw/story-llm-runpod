@@ -9,6 +9,45 @@
       "canonStatus": "reference-candidate",
       "description": "Seated on a harbour terrace at sunset, wearing an open white linen shirt and trousers, holding a drink.",
       "originalFilename": "Golden-Hour Harbour Lounge Portrait.png"
+    },
+    {
+      "path": "references/lucan-serris-daylight-harbour-sand-tank-portrait.png",
+      "role": "face-portrait",
+      "canonStatus": "reference-candidate",
+      "description": "Upper-body portrait beside a stone harbour railing in daylight, wearing a pale sand tank top.",
+      "originalFilename": "exec-1c23c8c6-b6a5-4a58-8032-2dbb06cba136.png",
+      "provenance": {
+        "method": "built-in-imagegen",
+        "generatedOn": "2026-10-07",
+        "identityReference": "references/lucan-serris-harbour-terrace-white-linen-seated-portrait.png",
+        "promptSummary": "Waterfront upper-body portrait in a fitted pale sand tank top, soft morning light, relaxed warm smile."
+      }
+    },
+    {
+      "path": "references/lucan-serris-evening-terrace-navy-suit-full-body.png",
+      "role": "outfit-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Full-body navy suit and open ivory shirt at an evening terrace reception, leaning on a balustrade with one hand in a pocket.",
+      "originalFilename": "exec-72d328bd-7b71-4f21-a440-24b157079c80.png",
+      "provenance": {
+        "method": "built-in-imagegen",
+        "generatedOn": "2026-10-07",
+        "identityReference": "references/lucan-serris-harbour-terrace-white-linen-seated-portrait.png",
+        "promptSummary": "Full-body evening reception portrait in a navy suit and open ivory shirt, one hand in a trouser pocket and the other resting on a stone railing."
+      }
+    },
+    {
+      "path": "references/lucan-serris-daylight-poolside-teal-swim-shorts-full-body.png",
+      "role": "physique-full-body",
+      "canonStatus": "reference-candidate",
+      "description": "Shirtless and barefoot beside a pool in daylight, wearing teal swim shorts and holding a white towel at his side.",
+      "originalFilename": "exec-45132f04-59ff-4b3e-b20f-b144c9df2187.png",
+      "provenance": {
+        "method": "built-in-imagegen",
+        "generatedOn": "2026-10-07",
+        "identityReference": "references/lucan-serris-harbour-terrace-white-linen-seated-portrait.png",
+        "promptSummary": "Full-body daylight poolside portrait, shirtless in short teal swim shorts, barefoot, holding a white towel, natural athletic proportions and body hair."
+      }
     }
   ]
 }
